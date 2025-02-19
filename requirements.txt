@@ -1,6 +1,7 @@
 python-telegram-bot==20.8
-langchain
-langchain_groq
-langchain_google_genai
-faiss-cpu
 python-dotenv
+langchain
+langchain-groq
+langchain-google-genai
+langchain-community
+faiss-cpu
